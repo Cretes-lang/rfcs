@@ -2,12 +2,16 @@
 
 - Author: krishanth7 (AI-assisted drafting)
 - Created: 2026-10-03
-- Status: PROPOSED / UNACCEPTED
+- Status: FINAL COMMENT / UNACCEPTED — announced 2026-10-12
 - Decision date and rationale: Pending
 - Discussion: the pull request introducing this proposal
 - Tracking: https://github.com/Cretes-lang/spec/issues/8
 - Implementation: Not started; isolated grammar recognizer only
 - Supersedes: None
+
+## Current review status
+
+Phase 2 was accepted on 2026-10-10 as RFC 0001. Phase 3 final comment is announced in [the discussion](https://github.com/Cretes-lang/rfcs/pull/2), intended outcome Accepted, through 2026-10-19 inclusive UTC; no decision before 2026-10-20 00:00 UTC. Reviewed RFC content: `cda7c9882b15f6c6a731d1156380262679a0bb35`; language content: `5a50ab3dd9fceb3918e4dabeea750bf92f17eb1b` (spec `fe6d0d48518d0419d59fb680673150c92b6a084c`). Historical status statements below describe the proposal when drafted. Provisional implementation does not establish acceptance.
 
 ## Summary
 
@@ -60,3 +64,4 @@ Architecture acceptance must resolve first. Public review should test the restri
 ## Decision record
 
 Proposed on 2026-10-03. No acceptance, rejection or external approval is recorded. After public discussion, announce the governance-required final-comment period with intended outcome, address objections and record a dated decision tied to exact revisions. Merge of this proposal or its specification draft must not be interpreted as acceptance. Phase 4 remains unstarted.
+
