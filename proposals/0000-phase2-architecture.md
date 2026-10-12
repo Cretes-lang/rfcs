@@ -1,12 +1,16 @@
-# RFC 0000: Cretes Phase 2 architecture baseline
+# RFC 0001: Cretes Phase 2 architecture baseline
 
 - Author: @krishanth7, with AI-assisted drafting and documented self-review
 - Created: 2026-09-27
-- Status: Review — architecture decisions PROPOSED
-- Decision date and rationale: No acceptance decision recorded
+- Status: ACCEPTED — 2026-10-10
+- Decision date and rationale: [2026-10-10 acceptance](https://github.com/Cretes-lang/rfcs/pull/1#issuecomment-6093106846)
 - Discussion / pull request: This proposal's pull request; [Phase 2 tracker](https://github.com/Cretes-lang/spec/issues/4)
-- Implementation status: Not started
+- Implementation status: In progress; frontend and provisional semantics tracked in Cretes-lang/cretes
 - Supersedes / superseded by: None
+
+## Accepted revision
+
+Accepted architecture content: `ee09762c5b67edd0ebfe048ffe518f4631f58b10`; reviewed RFC content: `5a5f6314a59b741f3e0c214cb3c3d1761f93396c`. The dated decision supersedes historical proposal-status wording below; design rationale is preserved without semantic changes. The original filename is retained to preserve existing links. Phase 3 is separately under final comment; acceptance does not certify implementation or release.
 
 ## Summary
 
@@ -93,3 +97,4 @@ Formal loan/move rules, native lowering correctness and novice usability require
 Public review is open. No final-comment interval or acceptance outcome is backdated. The lead must announce an intended outcome and a final-comment period of at least seven calendar days, address objections and then record Accepted, Rejected or Deferred with date and rationale. At acceptance, assign the next unused RFC number, pin the reviewed specification commit, update architecture statuses and question links, and link the subsequent specification/implementation/conformance/release tracking separately.
 
 Merging a clearly labeled proposed documentation PR is publication only. This RFC remains open until its decision gate is met. The Phase 2 tracker must not close merely because documents exist.
+
