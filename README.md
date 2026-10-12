@@ -1,6 +1,6 @@
 # Cretes RFCs
 
-Requests for Comments provide the durable record for significant Cretes changes. This repository establishes the process only; there are no accepted language-design RFCs yet.
+Requests for Comments provide the durable record for significant Cretes changes. RFC 0001 (Phase 2 architecture) was [accepted on 2026-10-10](https://github.com/Cretes-lang/rfcs/pull/1#issuecomment-6093106846). [Phase 3](proposals/0000-phase3-language-surface.md) is in final comment through 2026-10-19 inclusive UTC, with no decision before 2026-10-20 00:00 UTC. Acceptance, implementation and release are separate statuses.
 
 ## When an RFC is required
 
@@ -34,3 +34,4 @@ Current lead: @krishanth7. Follow the single-maintainer review policy in governa
 - [Versioning](https://github.com/Cretes-lang/.github/blob/main/VERSIONING.md)
 
 Initial maintainer: @krishanth7. License: [Apache-2.0](LICENSE).
+
